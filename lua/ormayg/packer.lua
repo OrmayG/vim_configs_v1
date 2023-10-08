@@ -44,5 +44,6 @@ use ('simrat39/rust-tools.nvim'),
 use ('nvim-lua/plenary.nvim'),
 use( 'ThePrimeagen/vim-be-good'),
 use ('mfussenegger/nvim-dap'),
+use ('nvim-tree/nvim-tree.lua')
 }
 end)
